@@ -1,2 +1,0 @@
-webpackJsonp([0x81b8806e4260],{"./node_modules/json-loader/index.js!./.cache/json/index.json":function(e,t){e.exports={data:{site:{siteMetadata:{title:"Sai Charan Chinta"}},allMarkdownRemark:{edges:[{node:{excerpt:"This is my first post on my new blog! How exciting! I’m sure I’ll write a lot more interesting things in the future. The answer to Life...",frontmatter:{path:"/hello-world/",date:"14 September, 2017",title:"Hello World"}}}]}},pathContext:{}}}});
-//# sourceMappingURL=path---index-879a8a12b3afc3f1b8e6.js.map
